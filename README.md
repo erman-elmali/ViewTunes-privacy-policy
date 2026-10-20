@@ -1,8 +1,4 @@
-# Gizlilik politikası / Privacy policy — taslak
-
-> App Store Connect, her uygulama için herkese açık bir **Gizlilik Politikası URL'si** ister. Bu metni bir web sayfasına (kendi sitenize, Notion/Google Sites gibi herkese açık bir sayfaya) koyup adresini girin. `[İLETİŞİM E-POSTASI]` yerine kendi adresinizi yazın. Hukuki tavsiye değildir; yayınlamadan önce gözden geçirin.
-
----
+# Gizlilik politikası / Privacy policy
 
 ## English
 
