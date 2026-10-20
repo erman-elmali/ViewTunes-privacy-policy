@@ -8,7 +8,7 @@
 
 **ViewTunes — Privacy Policy**
 
-*Last updated: [DATE]*
+*Last updated: 20.10.2026
 
 ViewTunes is a file viewer and media player that works entirely on your device. This policy explains what that means for your data.
 
@@ -26,7 +26,7 @@ ViewTunes is a file viewer and media player that works entirely on your device. 
 
 **Changes.** If this policy changes, the new version will be published at this address with a new date.
 
-**Contact.** [İLETİŞİM E-POSTASI]
+**Contact.** erman.elmali@icloud.com
 
 ---
 
@@ -34,7 +34,7 @@ ViewTunes is a file viewer and media player that works entirely on your device. 
 
 **ViewTunes — Gizlilik Politikası**
 
-*Son güncelleme: [TARİH]*
+*Son güncelleme: 20.10.2026
 
 ViewTunes, tamamen cihazınızda çalışan bir dosya görüntüleyici ve medya oynatıcıdır. Bu politika, verileriniz için bunun ne anlama geldiğini açıklar.
 
@@ -52,4 +52,4 @@ ViewTunes, tamamen cihazınızda çalışan bir dosya görüntüleyici ve medya 
 
 **Değişiklikler.** Politika değişirse yeni sürüm yeni tarihle bu adreste yayımlanır.
 
-**İletişim.** [İLETİŞİM E-POSTASI]
+**İletişim.** erman.elmali@icloud.com
